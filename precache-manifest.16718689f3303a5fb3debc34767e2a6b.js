@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c11657b48ac72b8ea475b3e81ce1004",
+    "revision": "cb4e2a9b9a5db435e32709648cae9149",
     "url": "/01-birthday-reminder/index.html"
   },
   {
-    "revision": "5aa3d8dee9e0e5d8ce76",
-    "url": "/01-birthday-reminder/static/css/main.a25574c1.chunk.css"
+    "revision": "bcb994d87c8d63aad02a",
+    "url": "/01-birthday-reminder/static/css/main.91f00756.chunk.css"
   },
   {
     "revision": "6e2d7a9fbc772ec3686f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/01-birthday-reminder/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5aa3d8dee9e0e5d8ce76",
+    "revision": "bcb994d87c8d63aad02a",
     "url": "/01-birthday-reminder/static/js/main.58500803.chunk.js"
   },
   {
